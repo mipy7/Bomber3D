@@ -4,7 +4,6 @@ using System.Linq;
 using System.Xml.Serialization;
 using UnityEditor;
 using UnityEngine;
-using static UnityEditor.PlayerSettings;
 
 public class BotBehaviour : MonoBehaviour
 {

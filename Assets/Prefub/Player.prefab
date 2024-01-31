@@ -501,7 +501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b925ec189ac7aa4488df8851e883936, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 1.5
   isFinish: 0
   bombPrefub: {fileID: 2595720090088871617, guid: 732e12a252da64507987819a344450d8, type: 3}
 --- !u!1 &5646024098911767922
